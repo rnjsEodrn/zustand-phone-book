@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import './App.css';
 import { Grid, Box } from '@mui/material';
 import ContactForm from './components/ContactForm';
